@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: aliceblue;
+    font-family: 'Instrument Serif';
+    text-align: center;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    width: 90%;
+    max-width: 800px;
+    margin: auto;
+
+
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 5px;
+    width: 150px;
+}
+
+header {
+    padding: 40px 0;
+}
+
+header .logo {
+    text-align: center;
+    margin-bottom: 40px;
+}
